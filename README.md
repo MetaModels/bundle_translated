@@ -1,4 +1,4 @@
-MetaModels Bundle
+Translated bundle
 =================
 
-Bundle for all MetaModels translated attributes
+MetaModels bundle for all translated attributes
