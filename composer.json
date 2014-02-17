@@ -45,6 +45,7 @@
 		"metamodels/attribute_translatedtabletext":"*@dev",
 		"metamodels/attribute_translatedtags":"*@dev",
 		"metamodels/attribute_translatedtext":"*@dev",
+		"metamodels/attribute_translatedcombinedvalues":"*@dev",
 		"metamodels/attribute_translatedcheckbox":"*@dev"
 	}
 }
