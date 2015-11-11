@@ -31,14 +31,14 @@
     "source": "https://github.com/MetaModels/bundle_translated"
   },
   "require": {
-    "metamodels/attribute_translatedalias": "~1.0",
-    "metamodels/attribute_translatedfile": "~1.0",
-    "metamodels/attribute_translatedlongtext": "~1.0",
-    "metamodels/attribute_translatedselect": "~1.0",
-    "metamodels/attribute_translatedtabletext": "~1.0",
-    "metamodels/attribute_translatedtags": "~1.0",
-    "metamodels/attribute_translatedtext": "~1.0",
-    "metamodels/attribute_translatedcombinedvalues": "~1.0",
-    "metamodels/attribute_translatedcheckbox": "~1.0"
+    "metamodels/attribute_translatedalias": "~2.0",
+    "metamodels/attribute_translatedfile": "~2.0",
+    "metamodels/attribute_translatedlongtext": "~2.0",
+    "metamodels/attribute_translatedselect": "~2.0",
+    "metamodels/attribute_translatedtabletext": "~2.0",
+    "metamodels/attribute_translatedtags": "~2.0",
+    "metamodels/attribute_translatedtext": "~2.0",
+    "metamodels/attribute_translatedcombinedvalues": "~2.0",
+    "metamodels/attribute_translatedcheckbox": "~2.0"
   }
 }
