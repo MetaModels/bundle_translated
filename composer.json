@@ -38,11 +38,11 @@
 		"source":"https://github.com/MetaModels/bundle_translated"
 	},
 	"require":{
-		"metamodels/attribute_translatedalias":"*",
-		"metamodels/attribute_translatedfile":"*",
-		"metamodels/attribute_translatedlongtext":"*",
-		"metamodels/attribute_translatedselect":"*",
-		"metamodels/attribute_translatedtags":"*",
-		"metamodels/attribute_translatedtext":"*"
+		"metamodels/attribute_translatedalias":"~1.0",
+		"metamodels/attribute_translatedfile":"~1.0",
+		"metamodels/attribute_translatedlongtext":"~1.0",
+		"metamodels/attribute_translatedselect":"~1.0",
+		"metamodels/attribute_translatedtags":"~1.0",
+		"metamodels/attribute_translatedtext":"~1.0"
 	}
 }
