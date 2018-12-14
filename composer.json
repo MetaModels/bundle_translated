@@ -9,7 +9,7 @@
   ],
   "type": "metapackage",
   "homepage": "http://now.metamodel.me/",
-  "license": "LGPL-3.0+",
+  "license": "LGPL-3.0-or-later",
   "authors": [
     {
       "name": "Christian Schiffler",
@@ -31,15 +31,15 @@
     "source": "https://github.com/MetaModels/bundle_translated"
   },
   "require": {
-    "metamodels/attribute_translatedalias": "~2.0",
-    "metamodels/attribute_translatedcheckbox": "~2.0",
-    "metamodels/attribute_translatedcombinedvalues": "~2.0",
-    "metamodels/attribute_translatedfile": "~2.0",
-    "metamodels/attribute_translatedlongtext": "~2.0",
-    "metamodels/attribute_translatedselect": "~2.0",
-    "metamodels/attribute_translatedtabletext": "~2.0",
-    "metamodels/attribute_translatedtags": "~2.0",
-    "metamodels/attribute_translatedtext": "~2.0",
-    "metamodels/attribute_translatedurl": "~2.0"
+    "metamodels/attribute_translatedalias": "^2.1",
+    "metamodels/attribute_translatedcheckbox": "^2.1",
+    "metamodels/attribute_translatedcombinedvalues": "^2.1",
+    "metamodels/attribute_translatedfile": "^2.1",
+    "metamodels/attribute_translatedlongtext": "^2.1",
+    "metamodels/attribute_translatedselect": "^2.1",
+    "metamodels/attribute_translatedtabletext": "^2.1",
+    "metamodels/attribute_translatedtags": "^2.1",
+    "metamodels/attribute_translatedtext": "^2.1",
+    "metamodels/attribute_translatedurl": "^2.1"
   }
 }
