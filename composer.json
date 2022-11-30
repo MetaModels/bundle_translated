@@ -8,13 +8,13 @@
     "metapackage"
   ],
   "type": "metapackage",
-  "homepage": "http://now.metamodel.me/",
+  "homepage": "https://now.metamodel.me/",
   "license": "LGPL-3.0-or-later",
   "authors": [
     {
       "name": "Christian Schiffler",
       "email": "c.schiffler@cyberspectrum.de",
-      "homepage": "http://www.cyberspectrum.de",
+      "homepage": "https://www.cyberspectrum.de",
       "role": "Developer"
     },
     {
@@ -26,18 +26,25 @@
   "support": {
     "email": "mail@metamodel.me",
     "issues": "https://github.com/MetaModels/bundle_translated/issues",
-    "wiki": "http://de.contaowiki.org/MetaModels",
+    "wiki": "https://de.contaowiki.org/MetaModels",
     "irc": "irc://irc.freenode.org/contao.mm",
     "source": "https://github.com/MetaModels/bundle_translated"
   },
   "require": {
-    "metamodels/attribute_translatedalias": "^2.1",
-    "metamodels/attribute_translatedcheckbox": "^2.1",
-    "metamodels/attribute_translatedcombinedvalues": "^2.1",
-    "metamodels/attribute_translatedfile": "^2.1",
-    "metamodels/attribute_translatedlongtext": "^2.1",
-    "metamodels/attribute_translatedtabletext": "^2.1",
-    "metamodels/attribute_translatedtext": "^2.1",
-    "metamodels/attribute_translatedurl": "^2.1"
+    "metamodels/attribute_translatedalias": "^2.2",
+    "metamodels/attribute_translatedcheckbox": "^2.2",
+    "metamodels/attribute_translatedcombinedvalues": "^2.2",
+    "metamodels/attribute_translatedcontentarticle": "^2.2",
+    "metamodels/attribute_translatedfile": "^2.2",
+    "metamodels/attribute_translatedlongtext": "^2.2",
+    "metamodels/attribute_translatedtabletext": "^2.2",
+    "metamodels/attribute_translatedtablemulti": "^2.2",
+    "metamodels/attribute_translatedtext": "^2.2",
+    "metamodels/attribute_translatedurl": "^2.2"
+  },
+  "config": {
+    "allow-plugins": {
+      "contao-components/installer": true
+    }
   }
 }
