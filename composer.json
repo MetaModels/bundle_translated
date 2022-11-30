@@ -41,5 +41,10 @@
     "metamodels/attribute_translatedtablemulti": "^2.2",
     "metamodels/attribute_translatedtext": "^2.2",
     "metamodels/attribute_translatedurl": "^2.2"
+  },
+  "config": {
+    "allow-plugins": {
+      "contao-components/installer": true
+    }
   }
 }
